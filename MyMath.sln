@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath", "MyMath\MyMath.csproj", "{2F483B7F-C6CE-49A1-8D29-85E72210A7CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary", "MathLibrary\MathLibrary.csproj", "{D86C7A4C-C52C-4A89-B111-030C2C80B48C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathUnitTest", "MathUnitTest\MathUnitTest.csproj", "{A0C880A2-0123-407C-8D05-24091AC1DAF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F483B7F-C6CE-49A1-8D29-85E72210A7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F483B7F-C6CE-49A1-8D29-85E72210A7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F483B7F-C6CE-49A1-8D29-85E72210A7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F483B7F-C6CE-49A1-8D29-85E72210A7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86C7A4C-C52C-4A89-B111-030C2C80B48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86C7A4C-C52C-4A89-B111-030C2C80B48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86C7A4C-C52C-4A89-B111-030C2C80B48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86C7A4C-C52C-4A89-B111-030C2C80B48C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C880A2-0123-407C-8D05-24091AC1DAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C880A2-0123-407C-8D05-24091AC1DAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C880A2-0123-407C-8D05-24091AC1DAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C880A2-0123-407C-8D05-24091AC1DAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB4E8B73-DAD3-4EA0-832A-BC2921BAD84B}
+	EndGlobalSection
+EndGlobal

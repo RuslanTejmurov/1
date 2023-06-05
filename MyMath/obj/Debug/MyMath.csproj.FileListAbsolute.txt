@@ -1,0 +1,11 @@
+C:\Users\IMac12\source\repos\MyMath\MyMath\bin\Debug\MyMath.exe.config
+C:\Users\IMac12\source\repos\MyMath\MyMath\bin\Debug\MyMath.exe
+C:\Users\IMac12\source\repos\MyMath\MyMath\bin\Debug\MyMath.pdb
+C:\Users\IMac12\source\repos\MyMath\MyMath\bin\Debug\MathLibrary.dll
+C:\Users\IMac12\source\repos\MyMath\MyMath\bin\Debug\MathLibrary.pdb
+C:\Users\IMac12\source\repos\MyMath\MyMath\obj\Debug\MyMath.csproj.AssemblyReference.cache
+C:\Users\IMac12\source\repos\MyMath\MyMath\obj\Debug\MyMath.csproj.SuggestedBindingRedirects.cache
+C:\Users\IMac12\source\repos\MyMath\MyMath\obj\Debug\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\IMac12\source\repos\MyMath\MyMath\obj\Debug\MyMath.csproj.CopyComplete
+C:\Users\IMac12\source\repos\MyMath\MyMath\obj\Debug\MyMath.exe
+C:\Users\IMac12\source\repos\MyMath\MyMath\obj\Debug\MyMath.pdb

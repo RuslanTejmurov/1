@@ -1,0 +1,6 @@
+C:\Users\IMac12\source\repos\MyMath\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\IMac12\source\repos\MyMath\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\IMac12\source\repos\MyMath\MathLibrary\obj\Debug\MathLibrary.csproj.AssemblyReference.cache
+C:\Users\IMac12\source\repos\MyMath\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IMac12\source\repos\MyMath\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\IMac12\source\repos\MyMath\MathLibrary\obj\Debug\MathLibrary.pdb
